@@ -1,0 +1,3 @@
+[submodule "lib/libgem"]
+	path = lib/libgem
+	url = https://github.com/radams15/libgem.git
